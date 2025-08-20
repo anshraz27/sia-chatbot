@@ -76,5 +76,4 @@ Model: Mistral (via Ollama)
 Feel free to open issues, submit PRs, or suggest features.
 Let’s make Sia smarter and more fun together 🙌
 
-✨ Author
-Made by Ad-tech1009 
+
