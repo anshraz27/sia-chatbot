@@ -20,15 +20,6 @@ Sia (She Is Always-here) is an interactive web-based chatbot that blends fun, in
 - 🧠 Mood wave engine (visual + semantic)  
   Tracks the emotional progression of a conversation, influencing Sia's demeanor and background colors in real time.
 
-> 🛠️ Planned Features:
-> - 🎮 Mini-games and playful interactions (e.g., Mood Mirror, Reflection Cards)  
-> - 📖 Scripture exploration mode with quotes and commentary  
-> - 🎤 Voice and facial emotion support (voice tone, webcam face reading - opt-in) 
-> - 🧬 Fine-tuned LLaMA model for deeper emotional and philosophical understanding 
-> - 🔄 Memory module to remember user preferences and moods over time (opt-in)  
-> - 🛡️ Ethical safeguards for sensitive topics (mental health, legal, etc.) with safe fallback responses  
-
----
 
 ## 🚀 Getting Started
 
