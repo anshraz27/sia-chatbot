@@ -26,7 +26,7 @@ Sia (She Is Always-here) is an interactive web-based chatbot that blends fun, in
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Ad-tech1009/Sia-Chatbot.git
+git clone https://github.com/anshraz27/Sia-Chatbot.git
 cd Sia-Chatbot
 ```
 2. 🧠 LLM Backend Setup (llm_server)
